@@ -1,6 +1,6 @@
 # Practical Machine Learning Course Project
 
-This project looks at predicting manner in which a number of participants perfored an exercise using the 'classe' variable.
+This project looks at predicting manner in which a number of participants performed an exercise using the 'classe' variable.
 
 The data is from accelerometers on the belt, forearm, arm, and dumbell of 6 participants.
 
